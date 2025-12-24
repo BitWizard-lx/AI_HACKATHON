@@ -1,0 +1,13 @@
+{
+  "name": "login-page-root",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"Login Page with Sign Up\" run dev",
+    "build": "npm --prefix \"Login Page with Sign Up\" run build",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
